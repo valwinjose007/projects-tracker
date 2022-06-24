@@ -1,0 +1,16 @@
+.header {
+  margin: auto;
+  height: 12%;
+  padding-top: 1%;
+  width: 100%;
+  background-color: white;
+  align-items: flex-end;
+  display: flex;
+  border-bottom: 1px solid #fafbfe;
+}
+
+.logo {
+  font-size: x-large;
+  font-weight: bold;
+  font-family: fantasy;
+}

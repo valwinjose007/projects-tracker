@@ -1,0 +1,14 @@
+.projectsContainer {
+  margin-top: 20px;
+  gap: 20px;
+}
+
+.loader {
+  height: 300px;
+}
+
+.noRecordLabel {
+  padding-top: 4%;
+  padding-left: 5%;
+  font-size: large;
+}
